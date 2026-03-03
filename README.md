@@ -12,7 +12,7 @@ If Java is installed, your system is ready ⚡
 
 If not, install JDK first.
 
-🚀 Step 2: Summon the Tool
+🚀 Step 2: Execute the Application
 
 Navigate to the folder containing the .jar file:
 
